@@ -1,0 +1,14 @@
+Model;Accuracy;AUC-ROC;Macro Precision;Macro Recall;Macro F1-score
+Logistic Regression;0.7864;0.7422;0.7376;0.7422;0.7398
+Decision Tree;0.7402;0.6941;0.6847;0.6941;0.6888
+Random Forest;0.7637;0.7143;0.7102;0.7143;0.7122
+XGBoost;0.7921;0.7477;0.7444;0.7477;0.746
+LightGBM;0.7942;0.7477;0.7469;0.7477;0.7473
+CatBoost;0.7878;0.7356;0.7389;0.7356;0.7372
+Gradient Boosting Machine;0.7864;0.7558;0.7395;0.7558;0.7463
+AdaBoost;0.7764;0.7511;0.7299;0.7511;0.7379
+k-NN;0.7033;0.6903;0.663;0.6903;0.6674
+Support Vector Machine;0.7331;0.7405;0.7017;0.7405;0.7062
+Naive Bayes;0.7658;0.7459;0.7204;0.7459;0.729
+ensemble_model_hard;0.7935;0.7441;0.746;0.7441;0.7451
+ensemble_model_soft;0.7928;0.7482;0.7452;0.7482;0.7467
